@@ -1,16 +1,13 @@
 
-🎓 Estudante de Ciência da Computação (7º período)  
-🛒 Atualmente trabalho como Assistente de Loja na Camicado  
-💻 Desenvolvendo projetos em **JavaScript, HTML, CSS, MySQL e Python**  
-📱 Apaixonado por tecnologia, futebol e evolução constante
-
----
-
 ## 🚀 Sobre mim
+
+- 🎓 Estudante de Ciência da Computação (7º período)  
 - 📚 Aprendendo e evoluindo todos os dias na programação
 - 🔨 Criando projetos próprios e desafios para melhorar minhas habilidades
 - 🧠 Explorando conceitos de inteligência artificial e desenvolvimento web
+- 💻 Desenvolvendo projetos em **JavaScript, HTML, CSS, MySQL e Python**  
 - 🌐 Buscando oportunidades para atuar como desenvolvedor júnior
+- 🛒 Atualmente trabalho como Assistente de Loja na Camicado  
 
 ---
 
