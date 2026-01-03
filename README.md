@@ -25,6 +25,9 @@
   <a href="https://dev.to/<seu_usuario>" target="_blank">
     <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
+  <a href="https://twitter.com/<seu_usuario>" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/<seu_usuario>/" target="_blank">
     <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/renan-milanez-40b718275/)"/>
   </a>
