@@ -1,44 +1,64 @@
 
-## 🚀 Sobre mim
+# about-me
 
-- 🎓 Estudante de Ciência da Computação (7º período)  
-- 📚 Aprendendo e evoluindo todos os dias na programação
-- 🔨 Criando projetos próprios e desafios para melhorar minhas habilidades
-- 🧠 Explorando conceitos de inteligência artificial e desenvolvimento web
-- 💻 Desenvolvendo projetos em **JavaScript, HTML, CSS, MySQL e Python**  
-- 🌐 Buscando oportunidades para atuar como desenvolvedor júnior
-- 🛒 Atualmente trabalho como Assistente de Loja na Camicado  
+<h1 align="center">Hi 👋, I'm <Seu Nome Aqui></h1>
+
+<p align="center">
+  <i>Quando tudo está errado e confuso, apague tudo e recomece do zero.</i>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 👨‍💻 Sobre mim
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RenanOMilanez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanOMilanez&layout=compact&langs_count=7&theme=dark"/>
-</div>
+- 🌱 Atualmente estudando **Python e Machine Learning**
+- 💬 Posso ajudar com **Python, JavaScript, Lua, C e C#**
+- ✍️ Escrevo e ajudo pessoas na comunidade:  
+  👉 https://dev.to/<seu_usuario>
+- 📫 Como falar comigo: **seuemail@email.com**
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://dev.to/<seu_usuario>" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/<seu_usuario>" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/<seu_usuario>/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/<seu_usuario>" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/<seu_link>" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias que uso
+### 🛠️ Languages and Tools
 
-### 👨‍💻 Front-end
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
-
-### ⚙️ Back-end
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white)
-
-### 🧰 Ferramentas & DevOps
-![Git](https://img.shields.io/badge/-Git-%23F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### 🎨 Design e Prototipagem
-![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### ☁️ Outros
-![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,html,css,java,js,linux,mongodb,mysql,nodejs,postgres,python,react,vue&theme=dark" />
+</p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dark"/>
+</p>
+
+---
+
+<p align="center">
+  🚀 Sempre aprendendo, sempre evoluindo.
+</p>
+
