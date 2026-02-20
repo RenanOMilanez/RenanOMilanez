@@ -1,21 +1,101 @@
 
-# about-me
+# Hi, I'm Renan Milanez 👋  
 
-<h1 align="center">Hi 👋, I' Renan Milanez <Seu Nome Aqui></h1>
+Computer Science student, software developer and founder of **StrateX**.  
+Focused on building intelligent systems, SaaS platforms and AI-powered solutions that solve real business problems.
 
-<p align="center">
-  <i>Quando tudo está errado e confuso, apague tudo e recomece do zero.</i>
-</p>
+Currently developing projects in:
+
+- 🤖 Artificial Intelligence applied to Health & Productivity  
+- 📦 Intelligent Logistics Systems (route optimization & stock control)  
+- 🏋️ Health & Fitness SaaS platforms  
+- 🌐 Professional websites and custom business systems  
+
+I don't just build systems — I design structured, scalable and strategic digital solutions.
 
 ---
 
-### 👨‍💻 Sobre mim
+## 🧠 About Me
 
-- 🌱 Atualmente estudando **Python e Machine Learning**
-- 💬 Posso ajudar com **Python, JavaScript, Lua, C e C#**
-- ✍️ Escrevo e ajudo pessoas na comunidade:  
-- 📫 Como falar comigo: **renan.milanez11@hotmail.com**
+- 🎓 Computer Science student  
+- 🚀 Founder of StrateX – Digital Solutions & Software Development  
+- 🤖 Creator of personal AI assistants Huginn & Munin  
+- 💡 Strong interest in SaaS business models and scalable systems  
+- 🏗 Focused on architecture, automation and performance  
 
+---
+
+## 🛠 Technical Skills  
+
+### 💻 Development  
+- **Languages:** JavaScript, Python, C, SQL  
+- **Front-End:** HTML5, CSS3, Tailwind CSS  
+- **Back-End:** Node.js (learning & applying concepts), REST APIs  
+- **Mobile:** Flutter  
+- **Database:** MySQL  
+
+### 🧠 Concepts & Architecture  
+- Data structures & algorithms  
+- Software modeling  
+- Business-oriented system design  
+- Automation & process optimization  
+- SaaS product structuring  
+
+### 🧰 Tools & Platforms  
+- Git & GitHub  
+- VS Code  
+- Figma / Canva (UI prototyping)  
+- Vercel  
+- MySQL Workbench  
+
+---
+
+## 🚀 Main Projects  
+
+### 🤖 Personal AI Assistant (In Development)  
+Mobile AI assistant focused on productivity, health tracking, reminders and daily organization.  
+Designed to function as a true personal digital companion, with customizable identity and behavioral logic.
+
+---
+
+### 📦 Intelligent Logistics Platform (SaaS Concept)  
+System focused on:  
+- Route optimization  
+- Inventory control  
+- Operational efficiency  
+- Business performance insights  
+
+Built with scalability and enterprise application in mind.
+
+---
+
+### 🌐 StrateX – Professional Digital Solutions  
+Development of:  
+- Institutional websites  
+- Custom business systems  
+- Process automation  
+- Tailored digital solutions  
+
+Focused on structure, clarity and real business impact.
+
+---
+
+## 🎯 Current Focus  
+
+- Building scalable SaaS products  
+- Deepening knowledge in AI applications  
+- Strengthening backend architecture skills  
+- Structuring products with real market positioning  
+
+---
+
+## 📫 Contact  
+
+- **GitHub:** https://github.com/SEU_USUARIO  
+- **LinkedIn:** https://www.linkedin.com/in/SEU_USUARIO  
+- **Email:** seuemail@email.com  
+
+---
 ---
 
 ### 🌐 Connect with me
