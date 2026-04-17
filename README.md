@@ -59,15 +59,6 @@ Focused on structure, clarity and real business impact.
 
 ---
 
-## 📫 Contact  
-
-- **GitHub:** https://github.com/SEU_USUARIO  
-- **LinkedIn:** https://www.linkedin.com/in/SEU_USUARIO  
-- **Email:** seuemail@email.com  
-
----
----
-
 ### 🌐 Connect with me
 
 <p align="left">
