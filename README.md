@@ -11,8 +11,6 @@ Currently developing projects in:
 - 🏋️ Health & Fitness SaaS platforms  
 - 🌐 Professional websites and custom business systems  
 
-I don't just build systems — I design structured, scalable and strategic digital solutions.
-
 ---
 
 ## 🧠 About Me
@@ -50,25 +48,6 @@ I don't just build systems — I design structured, scalable and strategic digit
 
 ---
 
-## 🚀 Main Projects  
-
-### 🤖 Personal AI Assistant (In Development)  
-Mobile AI assistant focused on productivity, health tracking, reminders and daily organization.  
-Designed to function as a true personal digital companion, with customizable identity and behavioral logic.
-
----
-
-### 📦 Intelligent Logistics Platform (SaaS Concept)  
-System focused on:  
-- Route optimization  
-- Inventory control  
-- Operational efficiency  
-- Business performance insights  
-
-Built with scalability and enterprise application in mind.
-
----
-
 ### 🌐 StrateX – Professional Digital Solutions  
 Development of:  
 - Institutional websites  
@@ -77,15 +56,6 @@ Development of:
 - Tailored digital solutions  
 
 Focused on structure, clarity and real business impact.
-
----
-
-## 🎯 Current Focus  
-
-- Building scalable SaaS products  
-- Deepening knowledge in AI applications  
-- Strengthening backend architecture skills  
-- Structuring products with real market positioning  
 
 ---
 
@@ -124,8 +94,4 @@ Focused on structure, clarity and real business impact.
 </p>
 
 ---
-
-<p align="center">
-  🚀 Sempre aprendendo, sempre evoluindo.
-</p>
 
