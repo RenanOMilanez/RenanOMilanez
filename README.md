@@ -1,61 +1,39 @@
-
-# Hi, I'm Renan Milanez 👋  
-
-Computer Science student, software developer and founder of **StrateX**.  
-Focused on building intelligent systems, SaaS platforms and AI-powered solutions that solve real business problems.
-
-Currently developing projects in:
-
-- 🤖 Artificial Intelligence applied to Health & Productivity  
-- 📦 Intelligent Logistics Systems (route optimization & stock control)  
-- 🏋️ Health & Fitness SaaS platforms  
-- 🌐 Professional websites and custom business systems  
+<!-- BANNER -->
+<p align="center">
+  <img src="" alt="Renan Milanez Banner" width="100%"/>
+</p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 Computer Science student  
-- 🚀 Founder of StrateX – Digital Solutions & Software Development  
-- 🤖 Creator of personal AI assistants Huginn & Munin  
-- 💡 Strong interest in SaaS business models and scalable systems  
-- 🏗 Focused on architecture, automation and performance  
+<h1 align="center">Renan Milanez</h1>
+<h3 align="center">Designer + Developer</h3>
 
 ---
 
-## 🛠 Technical Skills  
+## Sobre mim
 
-### 💻 Development  
-- **Languages:** JavaScript, Python, C, SQL  
-- **Front-End:** HTML5, CSS3, Tailwind CSS  
-- **Back-End:** Node.js (learning & applying concepts), REST APIs  
-- **Mobile:** Flutter  
-- **Database:** MySQL  
+Sou estudante de **Ciência da Computação**, com foco no desenvolvimento de soluções digitais modernas, unindo **design** e **programação** para criar experiências eficientes e bem estruturadas.
 
-### 🧠 Concepts & Architecture  
-- Data structures & algorithms  
-- Software modeling  
-- Business-oriented system design  
-- Automation & process optimization  
-- SaaS product structuring  
-
-### 🧰 Tools & Platforms  
-- Git & GitHub  
-- VS Code  
-- Figma / Canva (UI prototyping)  
-- Vercel  
-- MySQL Workbench  
+Tenho interesse em **Inteligência Artificial**, **Engenharia de Software** e desenvolvimento de sistemas voltados para produtividade, automação e soluções escaláveis.
 
 ---
 
-### 🌐 StrateX – Professional Digital Solutions  
-Development of:  
-- Institutional websites  
-- Custom business systems  
-- Process automation  
-- Tailored digital solutions  
+## Qualidades
 
-Focused on structure, clarity and real business impact.
+- ✔️ Pensamento analítico e resolução de problemas  
+- ✔️ Integração entre design e desenvolvimento  
+- ✔️ Facilidade em aprender novas tecnologias  
+- ✔️ Organização e visão de produto  
+- ✔️ Foco em performance e escalabilidade  
+- ✔️ Desenvolvimento com propósito prático  
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,html,css,java,js,linux,mongodb,mysql,nodejs,postgres,python,react,vue" />
+</p>
 
 ---
 
@@ -74,14 +52,6 @@ Focused on structure, clarity and real business impact.
   <a href="https://discord.gg/uFdzemA8Fx<seu_link>" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,html,css,java,js,linux,mongodb,mysql,nodejs,postgres,python,react,vue&theme=dark" />
 </p>
 
 ---
