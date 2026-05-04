@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="" alt="Renan Milanez Banner" width="100%"/>
+  <img src="https://i.pinimg.com/736x/16/34/fe/1634feed9cce3a0a4ddf423e1c50cd94.jpg" alt="Renan Milanez Banner" width="100%"/>
 </p>
 
 
