@@ -3,7 +3,6 @@
   <img src="" alt="Renan Milanez Banner" width="100%"/>
 </p>
 
----
 
 ## Sobre mim
 
