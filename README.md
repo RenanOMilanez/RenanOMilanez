@@ -5,11 +5,6 @@
 
 ---
 
-<h1 align="center">Renan Milanez</h1>
-<h3 align="center">Designer + Developer</h3>
-
----
-
 ## Sobre mim
 
 Sou estudante de **Ciência da Computação**, com foco no desenvolvimento de soluções digitais modernas, unindo **design** e **programação** para criar experiências eficientes e bem estruturadas.
