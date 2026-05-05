@@ -6,20 +6,21 @@
 
 ## Sobre mim
 
-Sou estudante de **Ciência da Computação**, com foco no desenvolvimento de soluções digitais modernas, unindo **design** e **programação** para criar experiências eficientes e bem estruturadas.
+Sou Renan Milanez, graduando em Ciência da Computação (8º período), desenvolvedor focado em engenharia de software, banco de dados e resolução de problemas, atuando na construção de soluções eficientes, escaláveis e orientadas a dados.
 
-Tenho interesse em **Inteligência Artificial**, **Engenharia de Software** e desenvolvimento de sistemas voltados para produtividade, automação e soluções escaláveis.
+Tenho experiência no desenvolvimento de aplicações com Java e JavaScript, além de interfaces modernas com Flutter (UI/UX). Atuo na criação de sistemas web, automação e soluções voltadas à produtividade, sempre com foco em performance, organização e eficiência.
 
+Possuo conhecimento sólido em MySQL, incluindo modelagem e integração com Power BI para dashboards analíticos. Atualmente, desenvolvo TCC em Cidades Inteligentes, com foco no uso de dados e tecnologia para otimização de processos e apoio à tomada de decisão, em constante evolução nas áreas de desenvolvimento de software e dados.
 ---
 
 ## Qualidades
 
-- ✔️ Pensamento analítico e resolução de problemas  
-- ✔️ Integração entre design e desenvolvimento  
-- ✔️ Facilidade em aprender novas tecnologias  
-- ✔️ Organização e visão de produto  
-- ✔️ Foco em performance e escalabilidade  
-- ✔️ Desenvolvimento com propósito prático  
+✔️ Pensamento analítico aplicado à resolução de problemas reais
+✔️ Integração entre desenvolvimento e aplicação prática
+✔️ Aprendizado rápido com foco em resultado
+✔️ Organização de código e visão de produto
+✔️ Foco em performance, escalabilidade e eficiência
+✔️ Desenvolvimento orientado a soluções
 
 ---
 
