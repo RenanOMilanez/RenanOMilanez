@@ -1,7 +1,4 @@
-<!-- BANNER -->
 
-
----
 
 ## Sobre mim
 
