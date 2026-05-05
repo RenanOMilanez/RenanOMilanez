@@ -3,6 +3,7 @@
   <img src="https://i.pinimg.com/736x/16/34/fe/1634feed9cce3a0a4ddf423e1c50cd94.jpg" alt="Renan Milanez Banner" width="100%"/>
 </p>
 
+---
 
 ## Sobre mim
 
@@ -11,16 +12,17 @@ Sou Renan Milanez, graduando em Ciência da Computação (8º período), desenvo
 Tenho experiência no desenvolvimento de aplicações com Java e JavaScript, além de interfaces modernas com Flutter (UI/UX). Atuo na criação de sistemas web, automação e soluções voltadas à produtividade, sempre com foco em performance, organização e eficiência.
 
 Possuo conhecimento sólido em MySQL, incluindo modelagem e integração com Power BI para dashboards analíticos. Atualmente, desenvolvo TCC em Cidades Inteligentes, com foco no uso de dados e tecnologia para otimização de processos e apoio à tomada de decisão, em constante evolução nas áreas de desenvolvimento de software e dados.
+
 ---
 
 ## Qualidades
 
-✔️ Pensamento analítico aplicado à resolução de problemas reais
-✔️ Integração entre desenvolvimento e aplicação prática
-✔️ Aprendizado rápido com foco em resultado
-✔️ Organização de código e visão de produto
-✔️ Foco em performance, escalabilidade e eficiência
-✔️ Desenvolvimento orientado a soluções
+- ✔️ Pensamento analítico aplicado à resolução de problemas reais
+- ✔️ Integração entre desenvolvimento e aplicação prática
+- ✔️ Aprendizado rápido com foco em resultado
+- ✔️ Organização de código e visão de produto
+- ✔️ Foco em performance, escalabilidade e eficiência
+- ✔️ Desenvolvimento orientado a soluções
 
 ---
 
