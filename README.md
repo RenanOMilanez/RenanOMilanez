@@ -39,10 +39,7 @@ Possuo conhecimento sólido em MySQL, incluindo modelagem e integração com Pow
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/renan-milanez-40b718275/)"/>
   </a>
   <a href="https://www.instagram.com/rmilanez_/<seu_usuario>" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/rmilanez_/)"/>
-  </a>
-  <a href="https://discord.gg/uFdzemA8Fx<seu_link>" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/rmilanez_/](https://www.instagram.com/rmilanez_dev/)"/>
   </a>
 </p>
 
